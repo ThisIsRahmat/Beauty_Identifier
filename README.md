@@ -1,2 +1,3 @@
-# Object_Identifier
-Building my own video object identifier that is specific to beauty and skincare. 
+#Beauty_Identifier
+
+Build my own model to identify different Beauty Brands and Makeup Products from influencer videos 
